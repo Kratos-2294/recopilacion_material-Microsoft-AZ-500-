@@ -12,4 +12,12 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 
 #### Configurar Microsoft Azure Active Directory para cargas de trabajo
 
-- [Crear registro de aplicación](https://docs.microsoft.com/es-es/azure/active-directory/develop/howto-create-service-principal-portal).
+- [Crear registro de aplicación](https://docs.microsoft.com/es-es/azure/active-directory/develop/howto-create-service-principal-portal)
+- [Configurar los alcances de los permisos de registro de la aplicación](https://docs.microsoft.com/es-es/azure/active-directory/develop/v2-permissions-and-consent)
+- [Administrar consentimiento de permiso de registro de aplicaciones](https://docs.microsoft.com/es-mx/azure/active-directory/develop/v2-permissions-and-consent)
+- [Configurar la autenticación multifactor](https://docs.microsoft.com/es-mx/azure/active-directory/authentication/howto-mfa-mfasettings)
+- [Administrar grupos de directorios de Microsoft Azure AD](https://docs.microsoft.com/es-mx/azure/active-directory/fundamentals/active-directory-groups-members-azure-portal)
+- [Administrar usuarios de Microsoft Azure AD](https://docs.microsoft.com/es-mx/azure/active-directory/fundamentals/add-users-azure-active-directory)
+- [Instalar y configurar la conexión de Microsoft Azure AD Connect](https://docs.microsoft.com/es-es/azure/active-directory/hybrid/how-to-connect-install-roadmap)
+- [Implementar políticas de acceso condicional](https://docs.microsoft.com/es-mx/azure/active-directory/conditional-access/plan-conditional-access)
+- [Configurar Microsoft AD Identity Protection](https://docs.microsoft.com/es-es/azure/active-directory/identity-protection/overview-identity-protection)
