@@ -11,3 +11,5 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 <hr>
 
 #### Configurar Microsoft Azure Active Directory para cargas de trabajo
+
+- [Crear registro de aplicación](https://docs.microsoft.com/es-es/azure/active-directory/develop/howto-create-service-principal-portal).
