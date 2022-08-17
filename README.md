@@ -1,2 +1,3 @@
 # recopilación_material-Microsoft-AZ-500-
-Recopilación de documentación oficial de la certificación AZ-500: Microsoft Azure Security Technologies 
+Recopilación personal sobre la documentación oficial publicada por Microsoft para poder prepararse para la certificación AZ-500: Microsoft Azure Security Technologies.  
+Se van a ir ordenado los diversos temas que considero importantes estudiar y practicar en base al temario oficial que propone Microsoft para de la AZ-500
