@@ -35,3 +35,4 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 #### Configurar la seguridad del inquilino de Microsoft
 
 - [Transferir suscripciones de Azure entre inquilinos de Microsoft Azure AD](https://docs.microsoft.com/es-mx/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+- [Administre el acceso de la API a las suscripciones y los recursos de Microsoft Azure](https://docs.microsoft.com/es-mx/azure/role-based-access-control/role-assignments-portal?tabs=current)
