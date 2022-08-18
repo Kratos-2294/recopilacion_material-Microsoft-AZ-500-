@@ -21,3 +21,17 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Instalar y configurar la conexión de Microsoft Azure AD Connect](https://docs.microsoft.com/es-es/azure/active-directory/hybrid/how-to-connect-install-roadmap)
 - [Implementar políticas de acceso condicional](https://docs.microsoft.com/es-mx/azure/active-directory/conditional-access/plan-conditional-access)
 - [Configurar Microsoft AD Identity Protection](https://docs.microsoft.com/es-es/azure/active-directory/identity-protection/overview-identity-protection)
+
+<hr>
+
+#### Configurar la administración de identidades con privilegios de Microsoft Azure AD
+
+- [Supervisar el acceso privilegiado](https://docs.microsoft.com/es-mx/azure/active-directory/privileged-identity-management/pim-how-to-use-audit-log)
+- [Configurar revisiones de acceso](https://docs.microsoft.com/es-mx/azure/active-directory/governance/access-reviews-overview)
+- [Activar Privileged Identity Management (PIM)](https://docs.microsoft.com/es-mx/azure/active-directory/privileged-identity-management/pim-deployment-plan)
+
+<hr>
+
+#### Configurar la seguridad del inquilino de Microsoft
+
+- [Transferir suscripciones de Azure entre inquilinos de Microsoft Azure AD](https://docs.microsoft.com/es-mx/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
