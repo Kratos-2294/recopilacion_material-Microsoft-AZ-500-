@@ -69,3 +69,13 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Configurar el registro de contenedores](https://docs.microsoft.com/es-mx/azure/container-registry/container-registry-get-started-portal?tabs=azure-cli)
 - [Configurar la seguridad de la instancia del contenedor](https://docs.microsoft.com/es-mx/azure/container-instances/container-instances-vnet)
 - [Implementar la gestión de vulnerabilidades](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/deploy-vulnerability-assessment-vm)
+
+<hr>
+
+#### Implementar la seguridad de administración de recursos de Microsoft Azure
+
+- [Crear bloqueos de recursos de Microsoft Azure](https://docs.microsoft.com/es-mx/azure/azure-resource-manager/management/lock-resources?tabs=json)
+- [Administrar la seguridad del grupo de recursos](https://docs.microsoft.com/es-mx/azure/role-based-access-control/overview)
+- [Configurar políticas de Microsoft Azure](https://docs.microsoft.com/es-mx/azure/governance/policy/tutorials/create-and-manage)
+- [Configurar funciones de RBAC personalizadas](https://docs.microsoft.com/es-mx/azure/role-based-access-control/custom-roles)
+- [Configurar permisos de suscripción y recursos](https://docs.microsoft.com/es-mx/azure/role-based-access-control/role-assignments-portal?tabs=current)
