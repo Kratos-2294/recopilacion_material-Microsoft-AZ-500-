@@ -36,3 +36,18 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 
 - [Transferir suscripciones de Azure entre inquilinos de Microsoft Azure AD](https://docs.microsoft.com/es-mx/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
 - [Administre el acceso de la API a las suscripciones y los recursos de Microsoft Azure](https://docs.microsoft.com/es-mx/azure/role-based-access-control/role-assignments-portal?tabs=current)
+
+<hr>
+<hr>
+
+### Implementación de la protección de la plataforma (15-20 %)
+<hr>
+
+#### Implementar la seguridad de la red
+
+- [Configurar la conectividad de la red virtual](https://docs.microsoft.com/es-mx/azure/virtual-network/virtual-networks-overview)
+- [Configurar grupos de seguridad de red (NSG)](https://docs.microsoft.com/es-mx/azure/virtual-network/manage-network-security-group)
+- [Crear y configurar Microsoft Azure Firewall](https://docs.microsoft.com/es-mx/azure/firewall/tutorial-firewall-deploy-portal)
+- [Crear y configurar grupos de seguridad de aplicaciones (ASG)](https://docs.microsoft.com/es-mx/azure/virtual-network/tutorial-filter-network-traffic#associate-network-interfaces-to-an-asg)
+- [Configurar la gestión de acceso remoto](https://docs.microsoft.com/es-mx/azure/security/fundamentals/management)
+
