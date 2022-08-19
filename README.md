@@ -59,3 +59,13 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Configurar la seguridad de la VM](https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas)
 - [Configurar actualizaciones del sistema para VM en Microsoft Azure](https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas#manage-your-vm-updates)
 - [Configurar la línea base](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/protect-network-resources)
+
+<hr>
+
+#### Configurar la seguridad del contenedor
+
+- [Configurar el aseguramiento de contenedores](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/defender-for-containers-introduction)
+- [Configurar la seguridad de AKS]([https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas](https://docs.microsoft.com/es-mx/azure/aks/concepts-security))
+- [Configurar el registro de contenedores](https://docs.microsoft.com/es-mx/azure/container-registry/container-registry-get-started-portal?tabs=azure-cli)
+- [Configurar la seguridad de la instancia del contenedor](https://docs.microsoft.com/es-mx/azure/container-instances/container-instances-vnet)
+- [Implementar la gestión de vulnerabilidades](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/deploy-vulnerability-assessment-vm)
