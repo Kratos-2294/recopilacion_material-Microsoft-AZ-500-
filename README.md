@@ -51,3 +51,12 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Crear y configurar grupos de seguridad de aplicaciones (ASG)](https://docs.microsoft.com/es-mx/azure/virtual-network/tutorial-filter-network-traffic#associate-network-interfaces-to-an-asg)
 - [Configurar la gestión de acceso remoto](https://docs.microsoft.com/es-mx/azure/security/fundamentals/management)
 
+<hr>
+
+#### Implementar la seguridad del host
+
+- [Configurar la seguridad de punto final dentro de la VM](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/supported-machines-endpoint-solutions-clouds-containers?tabs=azure-aks#supported-endpoint-protection-solutions-)
+- [Configurar la seguridad de la VM](https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas)
+- [Reforzar VM en Microsoft Azure](https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas)
+- [Configurar actualizaciones del sistema para VM en Microsoft Azure](https://docs.microsoft.com/es-mx/azure/security/fundamentals/iaas#manage-your-vm-updates)
+- [Configurar la línea base](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/protect-network-resources)
