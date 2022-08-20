@@ -93,3 +93,11 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Configurar el registro de diagnóstico y la retención de registros](https://docs.microsoft.com/es-mx/azure/azure-monitor/essentials/platform-logs-overview)
 - [Configurar el escaneo de vulnerabilidades](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/deploy-vulnerability-assessment-vm)
 
+<hr>
+
+#### Configurar políticas de seguridad
+
+- [Configure la administración centralizada de políticas mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/tutorial-security-policy)
+- [Configure el acceso justo a tiempo mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/just-in-time-access-usage?tabs=jit-config-asc%2Cjit-request-asc)
+
+
