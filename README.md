@@ -79,3 +79,17 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Configurar políticas de Microsoft Azure](https://docs.microsoft.com/es-mx/azure/governance/policy/tutorials/create-and-manage)
 - [Configurar funciones de RBAC personalizadas](https://docs.microsoft.com/es-mx/azure/role-based-access-control/custom-roles)
 - [Configurar permisos de suscripción y recursos](https://docs.microsoft.com/es-mx/azure/role-based-access-control/role-assignments-portal?tabs=current)
+
+<hr>
+<hr>
+
+### Administración de operaciones de seguridad (25-30 %)
+<hr>
+
+#### Configurar servicios de seguridad
+
+- [Configurar Microsoft Azure Monitor](https://docs.microsoft.com/es-mx/azure/azure-monitor/overview)
+- [Configure Microsoft Azure Log analytics](https://docs.microsoft.com/es-mx/azure/azure-monitor/logs/manage-access?tabs=portal)
+- [Configurar el registro de diagnóstico y la retención de registros](https://docs.microsoft.com/es-mx/azure/azure-monitor/essentials/platform-logs-overview)
+- [Configurar el escaneo de vulnerabilidades](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/deploy-vulnerability-assessment-vm)
+
