@@ -100,4 +100,12 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Configure la administración centralizada de políticas mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/tutorial-security-policy)
 - [Configure el acceso justo a tiempo mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/just-in-time-access-usage?tabs=jit-config-asc%2Cjit-request-asc)
 
+<hr>
+
+#### Administrar alertas de seguridad
+
+- [Crear y personalizar alertas](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/defender-for-cloud-introduction#custom-alert-rules-preview)
+- [Revisar y responder a alertas y recomendaciones](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/managing-and-responding-alerts)
+- [Configurar un playbook para un evento de seguridad mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/workflow-automation)
+
 
