@@ -108,4 +108,15 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 - [Revisar y responder a alertas y recomendaciones](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/managing-and-responding-alerts)
 - [Configurar un playbook para un evento de seguridad mediante Microsoft Defender for Cloud](https://docs.microsoft.com/es-mx/azure/defender-for-cloud/workflow-automation)
 
+<hr>
+<hr>
 
+### Protección de datos y aplicaciones (25-30 %)
+<hr>
+
+#### Configurar políticas de seguridad para administrar datos
+
+- [Configurar la clasificación de datos](https://docs.microsoft.com/es-mx/previous-versions/azure/information-protection/infoprotect-quick-start-tutorial)
+- [Configurar la retención de datos](https://docs.microsoft.com/es-mx/azure/azure-monitor/logs/data-retention-archive?tabs=portal-1%2Cportal-2)
+
+<hr>
