@@ -116,7 +116,7 @@ Se van a ir ordenando los diversos temas que considero importantes estudiar y pr
 
 #### Configurar políticas de seguridad para administrar datos
 
-- [Configurar la clasificación de datos](https://docs.microsoft.com/es-mx/previous-versions/azure/information-protection/infoprotect-quick-start-tutorial)
+- [Configurar la clasificación de datos](https://docs.microsoft.com/es-mx/azure/information-protection/what-is-information-protection)
 - [Configurar la retención de datos](https://docs.microsoft.com/es-mx/azure/azure-monitor/logs/data-retention-archive?tabs=portal-1%2Cportal-2)
 
 <hr>
